@@ -1,0 +1,13 @@
+openai
+python-dotenv
+PyYAML
+
+# 【重要】openai-agents（OpenAI Agents SDK）は絶対に入れないこと。
+# 名前が似ているが別物で、入れた瞬間に今回いちばん見せたい while ループが
+# フレームワークの中に隠れてしまい、教材の目的が消える。
+# ここにある openai は「APIを叩くだけ」のSDKであって、エージェント用ではない。
+
+# --- ここから下は講師の開発用。参加者には不要 -------------------------
+# agent_claude.py（Anthropic版）を動かすためだけに使う。
+# 当日の教材（agent.py）はこれに依存しない。
+anthropic

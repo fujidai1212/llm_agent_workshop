@@ -1,0 +1,128 @@
+[
+  {
+    "user_id": "tanaka",
+    "name": "田中太郎",
+    "dept": "営業部",
+    "extension": "1101",
+    "password_status": "reset_pending"
+  },
+  {
+    "user_id": "tanaka_j",
+    "name": "田中次郎",
+    "dept": "経理部",
+    "extension": "1204",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "sato_h",
+    "name": "佐藤花子",
+    "dept": "人事部",
+    "extension": "1305",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "sato_y",
+    "name": "佐藤陽子",
+    "dept": "総務部",
+    "extension": "1402",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "suzuki",
+    "name": "鈴木一郎",
+    "dept": "情報システム部",
+    "extension": "1001",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "takahashi",
+    "name": "高橋美咲",
+    "dept": "マーケティング部",
+    "extension": "1503",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "ito",
+    "name": "伊藤健太",
+    "dept": "営業部",
+    "extension": "1102",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "watanabe",
+    "name": "渡辺真由美",
+    "dept": "経理部",
+    "extension": "1205",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "yamamoto",
+    "name": "山本大輔",
+    "dept": "開発部",
+    "extension": "1601",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "nakamura",
+    "name": "中村さゆり",
+    "dept": "開発部",
+    "extension": "1602",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "kobayashi",
+    "name": "小林誠",
+    "dept": "営業部",
+    "extension": "1103",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "kato",
+    "name": "加藤裕子",
+    "dept": "人事部",
+    "extension": "1306",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "yoshida",
+    "name": "吉田拓也",
+    "dept": "マーケティング部",
+    "extension": "1504",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "yamada",
+    "name": "山田愛",
+    "dept": "総務部",
+    "extension": "1403",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "matsumoto",
+    "name": "松本翔太",
+    "dept": "開発部",
+    "extension": "1603",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "inoue",
+    "name": "井上真理",
+    "dept": "経理部",
+    "extension": "1206",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "kimura",
+    "name": "木村健二",
+    "dept": "営業部",
+    "extension": "1104",
+    "password_status": "normal"
+  },
+  {
+    "user_id": "hayashi",
+    "name": "林由美子",
+    "dept": "人事部",
+    "extension": "1307",
+    "password_status": "normal"
+  }
+]
