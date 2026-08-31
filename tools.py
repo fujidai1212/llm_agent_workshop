@@ -22,12 +22,7 @@ WORKSPACE = (Path(__file__).parent / "workspace").resolve()
 
 
 def _load(filename: str) -> list:
-    """workspace/ 内のJSONファイルを読み込んでPythonのリストにする。
-
-    filename はこのファイルの中でしか使わない固定値（"kb.json" など）であり、
-    LLMが渡してくる引数ではない。だから read_file のときのような
-    パス脱出チェック（_safe_path）はここでは不要になる。
-    """
+    """workspace/ 内の指定したJSONファイルを読み込み、Pythonのリストとして返す。"""
     path = WORKSPACE / filename
     return json.loads(path.read_text(encoding="utf-8"))
 
